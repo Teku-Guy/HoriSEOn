@@ -63,6 +63,7 @@ p {
     background-position: center;
 }
 
+/* classes we use to float left or right */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -127,6 +128,7 @@ p {
     max-width: 150px;
 }
 
+/* Footer Styles */
 .footer {
     padding: 30px;
     clear: both;
