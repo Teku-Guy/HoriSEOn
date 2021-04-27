@@ -6,3 +6,4 @@ I did manage to fix all accesibility issues but i got a score of 95 on light hou
 
 link to the [live website](https://teku-guy.github.io/HoriSEOn/)
 
+![preview of HoriSEOn website](./assets/images/preview.png)
